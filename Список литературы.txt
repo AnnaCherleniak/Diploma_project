@@ -1,0 +1,12 @@
+Список используемой литературы и ресурсов (https://vk.com/wall-54530371_167454):
+
+1. Роман Савин. Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах. (https://itexts.net/avtor-roman-savin/157563-testirovanie-dot-com-roman-savin/read/page-1.html) (https://docviewer.yandex.ru/view/104653482/?*=8P0Qo8gH3qceosopJmMz%2FM1crY17InVybCI6InlhLWRpc2stcHVibGljOi8vLzZFN3J0RWJnaHpZZXhCVk94Sjk4QVB5elZWWS9ETHRGcUpUVnJwVjlERT0iLCJ0aXRsZSI6InRlc3RfZG90X2NvbS43eiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTA0NjUzNDgyIiwidHMiOjE2ODYwNjQ5NjI0MjQsInl1IjoiNDg5NTcxMTU4MTY2NzU2MDE5NSJ9)
+2. Чек-лист тестирования WEB приложений https://habr.com/ru/articles/542422/
+3. Фундаментальная теория тестирования https://habr.com/ru/post/549054/
+4. Семь главных принципов тестирования https://testengineer.ru/sem-glavnyh-principov-testirovaniya/
+5. Структура, содержание и процесс написания проверок https://habr.com/ru/companies/surfstudio/articles/575360/
+6. Что такое тест-кейс и как его писать https://www.software-testing.ru/library/testing/general-testing/1991-2014-08-25-11-55-39
+7. Уиттакер Джеймс - Как тестируют в Google
+8. Святослав Куликов. «Тестирование программного обеспечения. Базовый курс»
+9. Гленфорд Майерс, Том Баджетт, Кори Сандлер. Искусство тестирования программ
+10. Гид по ручному тестированию приложений: преимущества, этапы и методологии https://habr.com/ru/companies/skillbox/articles/418889/
