@@ -11,7 +11,7 @@
 8. Выполнить ручное тестирование веб-приложения;  
 9. Подготовить рекомендации по улучшению продукта.
 ## **Предмет исследования:** [сайт Фотомастерской “Кадр”](http://oval24.ru/question/)
-## **Инструменты:** Kanban, Qase.io, Jira, DevTools, Git, *Postman, Charles Proxy, FastStone Capture 7.2.*
+## **Инструменты:** Kanban, Qase.io, Jira, DevTools, Git, Postman, OBS Studio 23.2.1
 ## **Структура ДП:** 
   
 + Титульный лист дипломного проекта
