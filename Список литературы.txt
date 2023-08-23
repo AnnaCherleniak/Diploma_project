@@ -14,3 +14,5 @@
 12. Исследовательское тестирование и исследовательские туры Виттакера https://www.software-testing.by/blog/exploratory-testing-exploratory-tours/
 13. Классификация видов тестирования https://test-planet.by/news/klassifikaciya-vidov-testirovaniya/
 14. Что такое smoke-тестирование? https://testengineer.ru/chto-takoe-smok-testirovanie/
+15. ЧТО ТАКОЕ ВЕБ-ПРИЛОЖЕНИЕ: ВИДЫ И АЛГОРИТМ РАЗРАБОТКИ   https://ru.ecomlife.pro/blog/chto-takoe-web-prilozhenie#submenu:about
+16. Виды веб-приложений: выбираем подходящий вариант для вашего бизнеса  https://leantech.ai/vebprilozhenie-osnovnye-vidy-i-ih-osobennosti
