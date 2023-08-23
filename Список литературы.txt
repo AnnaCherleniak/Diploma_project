@@ -13,3 +13,4 @@
 11. Тестирование программного продукта https://www.tadviser.ru/index.php/Статья:Тестирование_программного_продукта
 12. Исследовательское тестирование и исследовательские туры Виттакера https://www.software-testing.by/blog/exploratory-testing-exploratory-tours/
 13. Классификация видов тестирования https://test-planet.by/news/klassifikaciya-vidov-testirovaniya/
+14. Что такое smoke-тестирование? https://testengineer.ru/chto-takoe-smok-testirovanie/
