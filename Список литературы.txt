@@ -16,3 +16,5 @@
 14. Что такое smoke-тестирование? https://testengineer.ru/chto-takoe-smok-testirovanie/
 15. ЧТО ТАКОЕ ВЕБ-ПРИЛОЖЕНИЕ: ВИДЫ И АЛГОРИТМ РАЗРАБОТКИ   https://ru.ecomlife.pro/blog/chto-takoe-web-prilozhenie#submenu:about
 16. Виды веб-приложений: выбираем подходящий вариант для вашего бизнеса  https://leantech.ai/vebprilozhenie-osnovnye-vidy-i-ih-osobennosti
+17. Исследовательское тестирование — глубокое погружение в типы, процессы, подходы, инструменты, фреймворки и многое другое!   https://www.zaptest.com/ru/исследовательское-тестирование-глу
+18. Исследовательское тестирование  https://qarocks.ru/issledovatelskoe-testirovanie/#stages
