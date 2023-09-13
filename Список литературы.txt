@@ -18,3 +18,4 @@
 16. Виды веб-приложений: выбираем подходящий вариант для вашего бизнеса  https://leantech.ai/vebprilozhenie-osnovnye-vidy-i-ih-osobennosti
 17. Исследовательское тестирование — глубокое погружение в типы, процессы, подходы, инструменты, фреймворки и многое другое!   https://www.zaptest.com/ru/исследовательское-тестирование-глу
 18. Исследовательское тестирование  https://qarocks.ru/issledovatelskoe-testirovanie/#stages
+19. Как составить грамотное ТЗ на разработку сайта   https://habr.com/ru/articles/593661/
