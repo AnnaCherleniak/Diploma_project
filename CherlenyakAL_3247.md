@@ -77,3 +77,6 @@
 11. Тестирование программного продукта   https://www.tadviser.ru/index.php/Статья:Тестирование_программного_продукта
 12. Исследовательское тестирование и исследовательские туры Виттакера   https://www.software-testing.by/blog/exploratory-testing-exploratory-tours/
 13. Классификация видов тестирования    https://test-planet.by/news/klassifikaciya-vidov-testirovaniya/
+
+....
+19. Как составить грамотное ТЗ на разработку сайта   https://habr.com/ru/articles/593661/
